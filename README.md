@@ -11,8 +11,7 @@ From the scrapped details a bar graph is made to show each state wise condition 
 ## To run file 
 Just simply download the the jupyter notebook file and run it
 ### OR
-clone the repository in google colab 
-<ol>
-  <li> Open google colab </li> 
-  <li> `!git clone https://github.com/visalrajeev/Indian_State_Wise_COVID_19_Tracker.git` </li>
-</ol>
+clone the repository in google colab <br>
+1.  Open google colab <br>
+2. `!git clone https://github.com/visalrajeev/Indian_State_Wise_COVID_19_Tracker.git`  <br>
+
